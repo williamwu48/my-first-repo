@@ -6,7 +6,7 @@ My name is William Wu and I like to play basketball, video games, and going outs
 
 
 
-![Alt text]([url](https://github.com/williamwu48/my-first-repo/blob/profile-picture/Java_programming_language_logo.svg.png)))
+![Alt text](https://github.com/williamwu48/my-first-repo/blob/profile-picture/Java_programming_language_logo.svg.png)))
 
 
 
